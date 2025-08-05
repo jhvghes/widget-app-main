@@ -7,9 +7,10 @@
 2. Restore NuGet packages and build the project:
 
     dotnet restore
+   
     dotnet build
 
-3. Run the API Server
+4. Run the API Server
 
     dotnet run
 
@@ -25,6 +26,7 @@
     npm install
 
 3. Start the front end app
+
     npm run serve
 
     The frontend runs at:
