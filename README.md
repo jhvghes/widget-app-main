@@ -6,13 +6,13 @@
 
 2. Restore NuGet packages and build the project:
 
-    dotnet restore
+    ```dotnet restore```
    
-    dotnet build
+    ```dotnet build```
 
 4. Run the API Server
 
-    dotnet run
+    ```dotnet run```
 
     API is at:
         http://localhost:5014/api/widgets
@@ -23,11 +23,11 @@
 
 2. Install all frontend dependencies
 
-    npm install
+    ```npm install```
 
 3. Start the front end app
 
-    npm run serve
+    ```npm run serve```
 
     The frontend runs at:
         http://localhost:8080
